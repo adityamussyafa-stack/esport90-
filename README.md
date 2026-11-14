@@ -108,7 +108,7 @@ Rumus winrate yang dipakai: `menang / total scrim × 100`, dibulatkan. Kalau men
 
 Cari di `index.html`:
 
-- Nomor WhatsApp: `6281234567890` (muncul di tombol CTA dan footer).
+- Nomor WhatsApp: `628999354786` (muncul di tombol CTA dan footer).
 - Email: `mlbb90@sekolah.sch.id`.
 - Alamat/lab dan jadwal latihan di bagian CTA dan footer.
 - Link sosial media di footer masih `#` (placeholder).
