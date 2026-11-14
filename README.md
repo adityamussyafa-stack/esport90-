@@ -1,5 +1,8 @@
 # MLBB 90 — Markas Divisi Mobile Legends
 
+> **Live:** <https://adityamussyafa-stack.github.io/esport90-/>
+> Repo: <https://github.com/adityamussyafa-stack/esport90->
+
 Website statis (HTML + CSS + JavaScript, tanpa build step) untuk markas Divisi Mobile Legends **Esport 90**. Isinya fokus ke empat hal:
 
 1. **Video scrim** Tim 1–4 (bisa difilter per tim, diputar lewat modal).
